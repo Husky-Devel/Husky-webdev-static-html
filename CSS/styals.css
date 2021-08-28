@@ -60,3 +60,12 @@
         float: none;
     }
 }
+
+div .content {
+    float: left;
+}
+
+.clear {
+    clear: both;
+
+}
